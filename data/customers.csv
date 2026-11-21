@@ -1,0 +1,501 @@
+customer_id,city,signup_date,channel
+1,Gurgaon,2026-02-27,Meta Ads
+2,Delhi,2026-05-06,Google Ads
+3,Pune,2026-02-22,Partner
+4,Mumbai,2026-02-14,Referral
+5,Gurgaon,2026-01-17,Organic
+6,Delhi,2026-04-22,Partner
+7,Mumbai,2026-01-14,Google Ads
+8,Delhi,2026-08-03,Referral
+9,Hyderabad,2026-05-23,Organic
+10,Pune,2026-03-23,Referral
+11,Noida,2026-06-24,Google Ads
+12,Hyderabad,2026-04-21,Meta Ads
+13,Gurgaon,2026-02-22,Referral
+14,Noida,2026-02-19,Meta Ads
+15,Hyderabad,2026-05-16,Organic
+16,Mumbai,2026-08-24,Organic
+17,Gurgaon,2026-07-13,Partner
+18,Hyderabad,2026-05-31,Partner
+19,Mumbai,2026-07-05,Google Ads
+20,Gurgaon,2026-02-05,Google Ads
+21,Gurgaon,2026-05-29,Google Ads
+22,Bengaluru,2026-02-21,Meta Ads
+23,Pune,2026-08-21,Meta Ads
+24,Noida,2026-03-25,Meta Ads
+25,Pune,2026-04-18,Meta Ads
+26,Mumbai,2026-02-06,Google Ads
+27,Delhi,2026-05-06,Referral
+28,Noida,2026-07-14,Partner
+29,Pune,2026-04-23,Meta Ads
+30,Delhi,2026-01-29,Organic
+31,Bengaluru,2026-06-11,Meta Ads
+32,Delhi,2026-02-03,Partner
+33,Delhi,2026-06-11,Referral
+34,Pune,2026-07-22,Referral
+35,Noida,2026-03-15,Google Ads
+36,Pune,2026-05-07,Partner
+37,Pune,2026-05-15,Partner
+38,Mumbai,2026-08-08,Referral
+39,Delhi,2026-07-05,Google Ads
+40,Bengaluru,2026-09-18,Organic
+41,Hyderabad,2026-01-25,Organic
+42,Pune,2026-03-20,Google Ads
+43,Mumbai,2026-08-05,Organic
+44,Bengaluru,2026-07-17,Partner
+45,Mumbai,2026-08-28,Meta Ads
+46,Pune,2026-01-06,Organic
+47,Hyderabad,2026-05-17,Meta Ads
+48,Noida,2026-02-27,Referral
+49,Bengaluru,2026-03-22,Organic
+50,Mumbai,2026-05-15,Google Ads
+51,Gurgaon,2026-09-17,Meta Ads
+52,Mumbai,2026-09-17,Google Ads
+53,Noida,2026-03-20,Google Ads
+54,Mumbai,2026-01-01,Meta Ads
+55,Gurgaon,2026-09-08,Organic
+56,Hyderabad,2026-07-05,Meta Ads
+57,Gurgaon,2026-05-03,Google Ads
+58,Gurgaon,2026-02-10,Referral
+59,Hyderabad,2026-02-05,Partner
+60,Delhi,2026-03-06,Referral
+61,Noida,2026-03-26,Partner
+62,Delhi,2026-08-05,Partner
+63,Pune,2026-04-13,Meta Ads
+64,Pune,2026-07-24,Meta Ads
+65,Mumbai,2026-08-13,Referral
+66,Delhi,2026-03-03,Google Ads
+67,Noida,2026-02-02,Organic
+68,Mumbai,2026-04-28,Google Ads
+69,Gurgaon,2026-01-04,Organic
+70,Gurgaon,2026-04-28,Organic
+71,Gurgaon,2026-06-19,Partner
+72,Noida,2026-05-02,Referral
+73,Mumbai,2026-04-20,Google Ads
+74,Delhi,2026-08-31,Referral
+75,Delhi,2026-07-28,Organic
+76,Pune,2026-02-19,Referral
+77,Bengaluru,2026-07-01,Referral
+78,Hyderabad,2026-08-28,Organic
+79,Gurgaon,2026-02-20,Referral
+80,Hyderabad,2026-06-23,Organic
+81,Delhi,2026-05-08,Google Ads
+82,Delhi,2026-08-18,Referral
+83,Noida,2026-04-04,Referral
+84,Hyderabad,2026-05-08,Organic
+85,Hyderabad,2026-08-15,Partner
+86,Gurgaon,2026-02-20,Partner
+87,Gurgaon,2026-01-08,Google Ads
+88,Bengaluru,2026-03-27,Referral
+89,Delhi,2026-09-04,Referral
+90,Delhi,2026-01-31,Referral
+91,Bengaluru,2026-01-02,Meta Ads
+92,Noida,2026-08-21,Referral
+93,Delhi,2026-09-07,Google Ads
+94,Delhi,2026-06-01,Organic
+95,Pune,2026-02-01,Meta Ads
+96,Gurgaon,2026-01-30,Partner
+97,Mumbai,2026-09-02,Partner
+98,Gurgaon,2026-03-22,Partner
+99,Hyderabad,2026-02-11,Google Ads
+100,Mumbai,2026-02-05,Organic
+101,Bengaluru,2026-05-01,Organic
+102,Mumbai,2026-05-07,Partner
+103,Mumbai,2026-01-21,Organic
+104,Pune,2026-08-03,Partner
+105,Noida,2026-09-25,Meta Ads
+106,Pune,2026-04-15,Meta Ads
+107,Noida,2026-05-03,Referral
+108,Pune,2026-03-09,Meta Ads
+109,Noida,2026-08-23,Organic
+110,Bengaluru,2026-01-05,Partner
+111,Gurgaon,2026-02-21,Partner
+112,Mumbai,2026-04-20,Meta Ads
+113,Noida,2026-03-09,Organic
+114,Noida,2026-05-06,Meta Ads
+115,Bengaluru,2026-03-22,Partner
+116,Mumbai,2026-06-04,Partner
+117,Pune,2026-01-05,Partner
+118,Pune,2026-06-03,Organic
+119,Noida,2026-03-10,Organic
+120,Pune,2026-02-24,Partner
+121,Noida,2026-03-21,Meta Ads
+122,Pune,2026-04-18,Meta Ads
+123,Pune,2026-04-15,Meta Ads
+124,Bengaluru,2026-09-16,Meta Ads
+125,Gurgaon,2026-01-27,Referral
+126,Gurgaon,2026-05-22,Organic
+127,Hyderabad,2026-06-20,Google Ads
+128,Delhi,2026-05-15,Referral
+129,Mumbai,2026-08-07,Organic
+130,Gurgaon,2026-02-27,Google Ads
+131,Hyderabad,2026-01-19,Meta Ads
+132,Bengaluru,2026-03-17,Google Ads
+133,Noida,2026-01-22,Meta Ads
+134,Noida,2026-01-21,Google Ads
+135,Pune,2026-05-08,Organic
+136,Hyderabad,2026-07-01,Partner
+137,Mumbai,2026-07-28,Google Ads
+138,Hyderabad,2026-05-02,Google Ads
+139,Bengaluru,2026-04-01,Organic
+140,Pune,2026-04-02,Meta Ads
+141,Hyderabad,2026-07-30,Google Ads
+142,Delhi,2026-05-17,Organic
+143,Hyderabad,2026-07-15,Organic
+144,Delhi,2026-08-29,Google Ads
+145,Noida,2026-08-24,Meta Ads
+146,Delhi,2026-04-27,Organic
+147,Bengaluru,2026-04-09,Meta Ads
+148,Hyderabad,2026-05-23,Organic
+149,Noida,2026-05-23,Partner
+150,Pune,2026-07-24,Partner
+151,Gurgaon,2026-06-19,Organic
+152,Delhi,2026-05-14,Partner
+153,Gurgaon,2026-05-16,Organic
+154,Noida,2026-08-11,Meta Ads
+155,Mumbai,2026-08-12,Partner
+156,Bengaluru,2026-03-01,Partner
+157,Noida,2026-04-08,Organic
+158,Gurgaon,2026-08-12,Partner
+159,Noida,2026-04-11,Referral
+160,Pune,2026-02-05,Meta Ads
+161,Pune,2026-06-10,Organic
+162,Mumbai,2026-06-03,Meta Ads
+163,Noida,2026-07-29,Referral
+164,Mumbai,2026-06-01,Google Ads
+165,Bengaluru,2026-04-09,Referral
+166,Mumbai,2026-03-31,Partner
+167,Bengaluru,2026-06-04,Partner
+168,Noida,2026-01-01,Meta Ads
+169,Bengaluru,2026-04-18,Partner
+170,Bengaluru,2026-06-14,Referral
+171,Pune,2026-08-15,Google Ads
+172,Bengaluru,2026-09-19,Google Ads
+173,Noida,2026-02-13,Partner
+174,Gurgaon,2026-06-21,Google Ads
+175,Delhi,2026-06-08,Google Ads
+176,Gurgaon,2026-03-17,Organic
+177,Bengaluru,2026-05-06,Partner
+178,Bengaluru,2026-02-07,Referral
+179,Pune,2026-04-10,Referral
+180,Bengaluru,2026-09-11,Google Ads
+181,Pune,2026-03-17,Organic
+182,Hyderabad,2026-02-24,Referral
+183,Delhi,2026-04-23,Partner
+184,Gurgaon,2026-08-26,Partner
+185,Hyderabad,2026-05-08,Organic
+186,Delhi,2026-08-22,Referral
+187,Hyderabad,2026-06-12,Referral
+188,Bengaluru,2026-09-16,Partner
+189,Delhi,2026-08-17,Referral
+190,Noida,2026-08-19,Google Ads
+191,Hyderabad,2026-05-22,Partner
+192,Pune,2026-09-06,Google Ads
+193,Bengaluru,2026-05-21,Organic
+194,Delhi,2026-05-27,Meta Ads
+195,Noida,2026-06-21,Partner
+196,Delhi,2026-02-11,Google Ads
+197,Bengaluru,2026-04-29,Google Ads
+198,Gurgaon,2026-04-20,Referral
+199,Noida,2026-07-28,Partner
+200,Bengaluru,2026-08-27,Organic
+201,Hyderabad,2026-04-16,Referral
+202,Hyderabad,2026-07-19,Partner
+203,Hyderabad,2026-01-11,Partner
+204,Bengaluru,2026-07-14,Organic
+205,Noida,2026-06-30,Referral
+206,Mumbai,2026-08-03,Partner
+207,Bengaluru,2026-04-23,Google Ads
+208,Bengaluru,2026-05-20,Referral
+209,Bengaluru,2026-01-15,Meta Ads
+210,Pune,2026-07-27,Google Ads
+211,Delhi,2026-08-28,Partner
+212,Bengaluru,2026-01-14,Partner
+213,Gurgaon,2026-01-14,Referral
+214,Hyderabad,2026-03-11,Referral
+215,Gurgaon,2026-04-04,Meta Ads
+216,Noida,2026-07-14,Google Ads
+217,Noida,2026-08-21,Meta Ads
+218,Noida,2026-07-14,Referral
+219,Hyderabad,2026-05-10,Organic
+220,Gurgaon,2026-08-29,Partner
+221,Noida,2026-01-27,Google Ads
+222,Hyderabad,2026-02-05,Organic
+223,Delhi,2026-01-16,Google Ads
+224,Mumbai,2026-01-11,Google Ads
+225,Delhi,2026-05-03,Referral
+226,Mumbai,2026-02-28,Google Ads
+227,Pune,2026-08-27,Meta Ads
+228,Delhi,2026-07-08,Partner
+229,Hyderabad,2026-02-28,Google Ads
+230,Gurgaon,2026-06-09,Partner
+231,Noida,2026-01-14,Partner
+232,Bengaluru,2026-07-12,Google Ads
+233,Mumbai,2026-02-08,Google Ads
+234,Pune,2026-02-22,Meta Ads
+235,Hyderabad,2026-03-03,Partner
+236,Noida,2026-01-22,Partner
+237,Pune,2026-08-08,Meta Ads
+238,Mumbai,2026-02-05,Meta Ads
+239,Hyderabad,2026-01-07,Referral
+240,Gurgaon,2026-09-08,Referral
+241,Pune,2026-07-05,Referral
+242,Bengaluru,2026-03-20,Google Ads
+243,Pune,2026-09-25,Meta Ads
+244,Bengaluru,2026-09-05,Referral
+245,Noida,2026-05-18,Google Ads
+246,Noida,2026-02-14,Referral
+247,Hyderabad,2026-05-05,Referral
+248,Noida,2026-07-14,Organic
+249,Hyderabad,2026-09-11,Meta Ads
+250,Bengaluru,2026-04-04,Google Ads
+251,Hyderabad,2026-07-01,Meta Ads
+252,Noida,2026-06-24,Partner
+253,Mumbai,2026-05-22,Organic
+254,Delhi,2026-09-22,Organic
+255,Pune,2026-05-04,Referral
+256,Mumbai,2026-09-08,Google Ads
+257,Pune,2026-09-01,Referral
+258,Hyderabad,2026-08-18,Organic
+259,Noida,2026-02-17,Google Ads
+260,Pune,2026-07-27,Google Ads
+261,Pune,2026-06-06,Partner
+262,Bengaluru,2026-07-08,Partner
+263,Bengaluru,2026-06-26,Partner
+264,Noida,2026-06-19,Referral
+265,Noida,2026-05-19,Meta Ads
+266,Gurgaon,2026-04-29,Google Ads
+267,Gurgaon,2026-06-11,Partner
+268,Delhi,2026-04-05,Google Ads
+269,Noida,2026-09-05,Partner
+270,Mumbai,2026-09-26,Meta Ads
+271,Hyderabad,2026-02-21,Google Ads
+272,Delhi,2026-06-01,Meta Ads
+273,Noida,2026-04-02,Organic
+274,Noida,2026-03-06,Organic
+275,Mumbai,2026-01-28,Meta Ads
+276,Pune,2026-03-06,Referral
+277,Hyderabad,2026-02-22,Organic
+278,Bengaluru,2026-05-26,Referral
+279,Noida,2026-08-14,Google Ads
+280,Noida,2026-01-27,Referral
+281,Hyderabad,2026-02-28,Organic
+282,Bengaluru,2026-07-25,Organic
+283,Delhi,2026-01-28,Google Ads
+284,Gurgaon,2026-06-05,Google Ads
+285,Mumbai,2026-03-02,Referral
+286,Hyderabad,2026-04-26,Partner
+287,Bengaluru,2026-07-14,Referral
+288,Hyderabad,2026-06-02,Partner
+289,Noida,2026-08-08,Partner
+290,Mumbai,2026-01-31,Organic
+291,Pune,2026-04-17,Google Ads
+292,Pune,2026-05-16,Organic
+293,Delhi,2026-03-22,Google Ads
+294,Delhi,2026-02-08,Organic
+295,Bengaluru,2026-07-29,Partner
+296,Noida,2026-08-29,Organic
+297,Noida,2026-04-29,Meta Ads
+298,Gurgaon,2026-08-21,Google Ads
+299,Hyderabad,2026-05-16,Partner
+300,Bengaluru,2026-04-12,Organic
+301,Pune,2026-04-26,Google Ads
+302,Hyderabad,2026-05-17,Google Ads
+303,Gurgaon,2026-02-06,Google Ads
+304,Mumbai,2026-06-07,Partner
+305,Bengaluru,2026-05-28,Organic
+306,Pune,2026-08-28,Meta Ads
+307,Noida,2026-07-26,Partner
+308,Bengaluru,2026-09-10,Organic
+309,Bengaluru,2026-01-21,Meta Ads
+310,Gurgaon,2026-05-09,Organic
+311,Pune,2026-04-28,Partner
+312,Hyderabad,2026-01-11,Meta Ads
+313,Hyderabad,2026-01-21,Google Ads
+314,Mumbai,2026-08-29,Referral
+315,Delhi,2026-05-23,Partner
+316,Pune,2026-08-12,Referral
+317,Bengaluru,2026-02-16,Meta Ads
+318,Noida,2026-07-29,Meta Ads
+319,Hyderabad,2026-02-23,Google Ads
+320,Bengaluru,2026-06-18,Referral
+321,Pune,2026-05-28,Referral
+322,Bengaluru,2026-01-19,Organic
+323,Noida,2026-06-11,Meta Ads
+324,Hyderabad,2026-03-01,Referral
+325,Hyderabad,2026-09-21,Organic
+326,Bengaluru,2026-08-25,Organic
+327,Mumbai,2026-04-07,Meta Ads
+328,Pune,2026-09-13,Referral
+329,Delhi,2026-01-27,Meta Ads
+330,Noida,2026-03-09,Referral
+331,Gurgaon,2026-09-06,Organic
+332,Pune,2026-05-03,Google Ads
+333,Mumbai,2026-06-09,Organic
+334,Gurgaon,2026-07-28,Google Ads
+335,Bengaluru,2026-02-28,Organic
+336,Bengaluru,2026-03-20,Meta Ads
+337,Pune,2026-09-18,Meta Ads
+338,Hyderabad,2026-08-01,Referral
+339,Delhi,2026-08-30,Referral
+340,Bengaluru,2026-03-16,Google Ads
+341,Pune,2026-09-18,Google Ads
+342,Noida,2026-02-05,Referral
+343,Hyderabad,2026-06-24,Partner
+344,Hyderabad,2026-05-17,Organic
+345,Pune,2026-05-25,Meta Ads
+346,Hyderabad,2026-09-08,Google Ads
+347,Mumbai,2026-08-17,Referral
+348,Noida,2026-06-26,Partner
+349,Bengaluru,2026-07-13,Meta Ads
+350,Pune,2026-04-07,Google Ads
+351,Delhi,2026-07-16,Referral
+352,Noida,2026-01-23,Referral
+353,Bengaluru,2026-07-15,Google Ads
+354,Gurgaon,2026-09-11,Google Ads
+355,Mumbai,2026-09-15,Meta Ads
+356,Hyderabad,2026-02-21,Referral
+357,Mumbai,2026-02-21,Referral
+358,Pune,2026-01-08,Google Ads
+359,Hyderabad,2026-07-29,Google Ads
+360,Bengaluru,2026-02-08,Meta Ads
+361,Mumbai,2026-06-23,Referral
+362,Hyderabad,2026-02-11,Meta Ads
+363,Noida,2026-07-14,Referral
+364,Mumbai,2026-01-19,Organic
+365,Pune,2026-05-01,Meta Ads
+366,Pune,2026-04-27,Organic
+367,Gurgaon,2026-08-11,Organic
+368,Delhi,2026-08-16,Meta Ads
+369,Gurgaon,2026-01-15,Meta Ads
+370,Noida,2026-01-29,Meta Ads
+371,Bengaluru,2026-07-11,Google Ads
+372,Mumbai,2026-05-06,Referral
+373,Delhi,2026-04-03,Google Ads
+374,Mumbai,2026-02-10,Referral
+375,Bengaluru,2026-05-04,Partner
+376,Delhi,2026-03-15,Referral
+377,Bengaluru,2026-05-11,Meta Ads
+378,Hyderabad,2026-01-05,Referral
+379,Pune,2026-05-28,Partner
+380,Gurgaon,2026-03-22,Referral
+381,Mumbai,2026-06-26,Meta Ads
+382,Pune,2026-08-06,Meta Ads
+383,Hyderabad,2026-08-22,Meta Ads
+384,Bengaluru,2026-04-12,Referral
+385,Delhi,2026-02-24,Referral
+386,Mumbai,2026-07-03,Meta Ads
+387,Gurgaon,2026-06-01,Referral
+388,Gurgaon,2026-05-21,Partner
+389,Mumbai,2026-01-26,Referral
+390,Hyderabad,2026-05-27,Google Ads
+391,Delhi,2026-06-30,Google Ads
+392,Pune,2026-05-09,Google Ads
+393,Pune,2026-02-19,Organic
+394,Hyderabad,2026-06-08,Referral
+395,Mumbai,2026-01-18,Meta Ads
+396,Gurgaon,2026-03-09,Meta Ads
+397,Pune,2026-06-17,Referral
+398,Delhi,2026-03-31,Google Ads
+399,Mumbai,2026-07-07,Partner
+400,Hyderabad,2026-05-20,Google Ads
+401,Hyderabad,2026-05-12,Referral
+402,Pune,2026-06-01,Meta Ads
+403,Bengaluru,2026-02-28,Organic
+404,Hyderabad,2026-03-14,Google Ads
+405,Hyderabad,2026-07-23,Partner
+406,Gurgaon,2026-07-07,Referral
+407,Noida,2026-01-08,Partner
+408,Bengaluru,2026-03-05,Meta Ads
+409,Mumbai,2026-05-15,Referral
+410,Gurgaon,2026-07-10,Google Ads
+411,Gurgaon,2026-08-30,Partner
+412,Mumbai,2026-06-17,Google Ads
+413,Pune,2026-02-02,Referral
+414,Pune,2026-06-04,Referral
+415,Delhi,2026-03-01,Organic
+416,Noida,2026-01-20,Referral
+417,Gurgaon,2026-03-01,Google Ads
+418,Bengaluru,2026-03-11,Referral
+419,Pune,2026-07-09,Partner
+420,Mumbai,2026-08-03,Google Ads
+421,Pune,2026-08-01,Organic
+422,Mumbai,2026-09-08,Referral
+423,Gurgaon,2026-05-24,Meta Ads
+424,Bengaluru,2026-04-22,Referral
+425,Hyderabad,2026-05-01,Meta Ads
+426,Pune,2026-02-20,Meta Ads
+427,Gurgaon,2026-07-03,Referral
+428,Delhi,2026-05-22,Organic
+429,Gurgaon,2026-08-21,Google Ads
+430,Gurgaon,2026-01-11,Meta Ads
+431,Delhi,2026-05-05,Partner
+432,Gurgaon,2026-04-16,Partner
+433,Mumbai,2026-04-17,Google Ads
+434,Noida,2026-04-30,Google Ads
+435,Noida,2026-01-02,Google Ads
+436,Mumbai,2026-03-08,Meta Ads
+437,Gurgaon,2026-03-31,Organic
+438,Gurgaon,2026-03-09,Meta Ads
+439,Mumbai,2026-05-02,Meta Ads
+440,Delhi,2026-01-09,Meta Ads
+441,Delhi,2026-01-27,Referral
+442,Gurgaon,2026-09-27,Organic
+443,Bengaluru,2026-09-01,Meta Ads
+444,Mumbai,2026-09-20,Organic
+445,Mumbai,2026-08-20,Google Ads
+446,Pune,2026-01-23,Partner
+447,Bengaluru,2026-06-04,Organic
+448,Bengaluru,2026-02-01,Referral
+449,Pune,2026-08-07,Organic
+450,Pune,2026-09-09,Referral
+451,Gurgaon,2026-02-07,Meta Ads
+452,Gurgaon,2026-03-17,Google Ads
+453,Mumbai,2026-05-21,Partner
+454,Bengaluru,2026-06-16,Partner
+455,Bengaluru,2026-05-31,Partner
+456,Gurgaon,2026-08-09,Organic
+457,Bengaluru,2026-04-21,Referral
+458,Bengaluru,2026-04-27,Meta Ads
+459,Bengaluru,2026-08-21,Referral
+460,Noida,2026-02-18,Referral
+461,Pune,2026-06-10,Meta Ads
+462,Delhi,2026-07-11,Referral
+463,Gurgaon,2026-02-04,Organic
+464,Bengaluru,2026-02-17,Organic
+465,Hyderabad,2026-07-10,Google Ads
+466,Mumbai,2026-01-31,Partner
+467,Pune,2026-06-18,Organic
+468,Noida,2026-07-30,Referral
+469,Noida,2026-01-27,Partner
+470,Noida,2026-06-09,Organic
+471,Delhi,2026-09-17,Google Ads
+472,Delhi,2026-09-04,Organic
+473,Hyderabad,2026-06-29,Partner
+474,Gurgaon,2026-07-08,Meta Ads
+475,Hyderabad,2026-04-26,Referral
+476,Mumbai,2026-01-14,Meta Ads
+477,Delhi,2026-01-15,Meta Ads
+478,Noida,2026-06-08,Meta Ads
+479,Delhi,2026-01-04,Google Ads
+480,Gurgaon,2026-07-25,Google Ads
+481,Gurgaon,2026-01-16,Partner
+482,Bengaluru,2026-04-21,Referral
+483,Noida,2026-08-21,Google Ads
+484,Noida,2026-07-09,Meta Ads
+485,Gurgaon,2026-02-13,Google Ads
+486,Hyderabad,2026-03-22,Partner
+487,Pune,2026-01-26,Organic
+488,Bengaluru,2026-05-20,Referral
+489,Mumbai,2026-09-06,Referral
+490,Noida,2026-08-01,Google Ads
+491,Gurgaon,2026-09-20,Meta Ads
+492,Gurgaon,2026-08-09,Meta Ads
+493,Mumbai,2026-09-07,Meta Ads
+494,Delhi,2026-01-24,Referral
+495,Gurgaon,2026-01-29,Google Ads
+496,Delhi,2026-06-04,Google Ads
+497,Noida,2026-05-11,Meta Ads
+498,Gurgaon,2026-03-03,Referral
+499,Delhi,2026-08-09,Google Ads
+500,Mumbai,2026-07-14,Google Ads

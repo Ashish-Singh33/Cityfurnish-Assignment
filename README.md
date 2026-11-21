@@ -1,0 +1,1 @@
+### Cityfurnish - AI-native Analytics Intern: Take-home Assignment
