@@ -12,11 +12,11 @@ WITH payment_per_rental AS (
     GROUP BY rental_id
 )
 SELECT
-    c.acquisition_channel,
+    c.channel,
     ROUND((SUM(p.success_payments)*100.0) / SUM(p.total_payments), 2) AS payment_success_rate,
-    ROUND(AVG(CASE WHEN r.status = 'closed' THEN r.end_date - r.start_date END), 1) AS avg_rental_duration
+    ROUND(AVG(CASE WHEN r.status = 'closed' THEN r.end_date - r.start_date END), 2) AS avg_rental_duration
 FROM customers c
 JOIN rentals r ON r.customer_id = c.customer_id
 LEFT JOIN payment_per_rental p ON p.rental_id = r.rental_id
-GROUP BY c.acquisition_channel
+GROUP BY c.channel
 ORDER BY payment_success_rate DESC;
